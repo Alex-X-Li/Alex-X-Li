@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Li
-- 👀 I’m interested in nothing specific really
-- 🌱 I’m currently learning particle physics
+- 👀 I’m interested in neutrino and dark matter physics
+- 🌱 I’m currently learning nuclear physics/particle physics/group theory/Julia/
 
 
 <!---
