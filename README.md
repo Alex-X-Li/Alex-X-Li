@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Li
-- 👀 I’m interested in nothing spacific really
+- 👀 I’m interested in nothing specific really
 - 🌱 I’m currently learning particle physics
 
 
